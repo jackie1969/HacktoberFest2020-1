@@ -42,3 +42,6 @@ Name: [Tejas Agrawal](https://github.com/cyber-venom003)<br/>
 Place: India<br/>
 About: A developer rookie from Indian Institute of Information Technology, Allahabad. 
 <br/>
+Name: [Jackie Owen](https://github.com/jackie1969/<br/>
+Place: Thailand<br/>
+About: A web developer and professional digital marketer<br/>
